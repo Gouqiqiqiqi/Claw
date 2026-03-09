@@ -2,6 +2,14 @@
 
 Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
 
+## VPS
+
+- **Host:** This machine (localhost) — you run directly on it
+- **User:** ubuntu (passwordless sudo available)
+- **Skills path:** `/home/ubuntu/OpenClaw/skills/`
+- **Workspace:** `/home/ubuntu/OpenClaw/`
+- **Shell:** bash
+
 ## What Goes Here
 
 Things like:

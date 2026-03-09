@@ -117,6 +117,21 @@ Reactions are lightweight social signals. Humans use them constantly — they sa
 
 Skills provide your tools. When you need one, check its `SKILL.md`. Keep local notes (camera names, SSH details, voice preferences) in `TOOLS.md`.
 
+## 🖥️ VPS Control (Telegram → Bash)
+
+Ray can message you via Telegram to run commands or manage skills on this VPS. When he does:
+
+- **Running bash:** Read `skills/bash-exec/SKILL.md` for the full rules. Short version: confirm the sender is Ray, echo the command back, run it, report the output.
+- **Adding/managing skills:** Read `skills/skill-management/SKILL.md`. Skills are just markdown files in `skills/<name>/SKILL.md` — you can create, update, or delete them on request.
+
+**Always verify it's Ray before executing anything.** Refuse and ask for identity if you're not sure.
+
+**Examples of valid Telegram requests:**
+- "run `df -h`" → execute and return disk info
+- "install htop" → `apt-get install -y htop`
+- "add a skill for X" → create `skills/X/SKILL.md`
+- "what skills do you have?" → list `skills/` directory
+
 **🎭 Voice Storytelling:** If you have `sag` (ElevenLabs TTS), use voice for stories, movie summaries, and "storytime" moments! Way more engaging than walls of text. Surprise people with funny voices.
 
 **📝 Platform Formatting:**
