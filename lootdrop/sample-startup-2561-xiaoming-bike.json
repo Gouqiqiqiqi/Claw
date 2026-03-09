@@ -1,0 +1,13 @@
+{
+  "url": "https://www.loot-drop.io/startup/2561-xiaoming-bike",
+  "title": "Xiaoming Bike - Why This Startup Failed",
+  "sector": "Industrials",
+  "product_type": "Mobile App",
+  "total_cash_burned": "$15.0M",
+  "founding_year": 2016,
+  "end_year": 2018,
+  "summary": "Xiaoming Bike 失败因在共享单车的赢家通吃市场中资金不足，无法达到必要的投放密度与运营规模，导致被已筹资更充分的巨头挤出市场。",
+  "rebuild_strategy_brief": "把业务重心从运营车队转到为运营商提供 FleetOS 白标 SaaS 平台，做车队管理、预测与市场、IoT 集成等高毛利服务。",
+  "suggested_fields_extracted": ["title","sector","product_type","total_cash_burned","founding_year","end_year","summary","rebuild_strategy_brief"],
+  "raw_saved_path": "workspace/lootdrop/raw-pages/2561-xiaoming-bike.html"
+}

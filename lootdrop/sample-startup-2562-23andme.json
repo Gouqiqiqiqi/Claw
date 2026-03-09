@@ -1,0 +1,13 @@
+{
+  "url": "https://www.loot-drop.io/startup/2562-23andme",
+  "title": "23andMe - Why This Startup Failed",
+  "sector": "Health Care",
+  "product_type": "Medical",
+  "total_cash_burned": "$1.1B",
+  "founding_year": 2006,
+  "end_year": 2025,
+  "summary": "23andMe 失败因监管压力、战略偏离和对用户信任的管理失误；直接面向消费者的健康声明引发监管审查，市场成熟后增长停滞且商业化模式受限。",
+  "rebuild_strategy_brief": "转型为临床级药物基因组学平台（GenoScript），与医疗系统与保险公司合作，在处方路径中嵌入基因检测与临床决策支持，主要收入来自按次检测+SaaS。",
+  "suggested_fields_extracted": ["title","sector","product_type","total_cash_burned","founding_year","end_year","summary","rebuild_strategy_brief"],
+  "raw_saved_path": "workspace/lootdrop/raw-pages/2562-23andme.html"
+}

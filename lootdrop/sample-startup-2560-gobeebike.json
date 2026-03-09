@@ -1,0 +1,13 @@
+{
+  "url": "https://www.loot-drop.io/startup/2560-gobeebike",
+  "title": "Gobee.bike - Why This Startup Failed",
+  "sector": "Consumer",
+  "product_type": "Mobile App",
+  "total_cash_burned": "$9.0M",
+  "founding_year": 2017,
+  "end_year": 2018,
+  "summary": "Gobee.bike 因资产流失（盗窃、破坏）、零押金模式导致滥用，以及跨国快速扩张在运营应对上失败，结合单位经济学恶化而倒闭。",
+  "rebuild_strategy_brief": "将目标转为校园专属的电动自行车订阅平台（CampusCycle），利用学生身份验证、学期订阅与地理围栏控制，解决盗窃与滥用问题，并通过大学合作获得稳定 B2B 收入。",
+  "suggested_fields_extracted": ["title","sector","product_type","total_cash_burned","founding_year","end_year","summary","rebuild_strategy_brief"],
+  "raw_saved_path": "workspace/lootdrop/raw-pages/2560-gobeebike.html"
+}

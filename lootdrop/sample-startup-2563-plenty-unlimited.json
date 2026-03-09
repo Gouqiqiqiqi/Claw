@@ -1,0 +1,13 @@
+{
+  "url": "https://www.loot-drop.io/startup/2563-plenty-unlimited",
+  "title": "Plenty Unlimited - Why This Startup Failed",
+  "sector": "Materials",
+  "product_type": "Robotics",
+  "total_cash_burned": "$944.0M",
+  "founding_year": 2014,
+  "end_year": 2025,
+  "summary": "Plenty Unlimited failed due to unsustainable unit economics and building capital-intensive facilities without proving profitability at small scale. The company's vertical farming model faced physics and economics limits; massive capital expenditure didn't translate to profitable unit economics.",
+  "rebuild_strategy_brief": "Pivot from operating capital-intensive farms to an AI-powered R&D and SaaS platform (Photon Labs) offering modular grow units and AI optimization for high-value crops; revenue via hardware sales, SaaS, and data licensing.",
+  "suggested_fields_extracted": ["title","sector","product_type","total_cash_burned","founding_year","end_year","summary","rebuild_strategy_brief"],
+  "raw_saved_path": "workspace/lootdrop/raw-pages/2563-plenty-unlimited.html"
+}

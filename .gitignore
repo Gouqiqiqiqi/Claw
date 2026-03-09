@@ -1,0 +1,11 @@
+# Encrypted sensitive files - keep local only
+secure/
+
+# OS / editor noise
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+__pycache__/
+*.pyc
