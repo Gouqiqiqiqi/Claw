@@ -1,0 +1,1 @@
+/home/ubuntu/agents/sophia/IDENTITY.md
